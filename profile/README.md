@@ -1,8 +1,8 @@
-# Platform Design Specification
+#  Welcome to Ochestra
 
-## 1. Executive Summary
+## 1. Welcome to Ochestra
 
-This document outlines a high-level specification for a unified solution and comprehensive cloud -native application management platform - OCHESTRA. The platform aims to address the complete lifecycle of cloud - native deployments, from k8's cluster management and observability to cost optimization and troubleshooting, enabling organizations to efficiently manage their containerized infrastructure at scale.
+Ochestra is a unified solution and comprehensive cloud -native application management platform. The platform aims to address the complete lifecycle of cloud - native deployments, from k8's cluster management and observability to cost optimization and troubleshooting, enabling organizations to efficiently manage their containerized infrastructure at scale.
 
 ## 2. System Overview
 
