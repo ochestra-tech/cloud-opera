@@ -1,0 +1,40 @@
+Welcome to the Ochestra AI Project!
+Ochestra is an cloud native DevOps-as-a-Service platform that leverages artificial inteligence and CNCF tools to simplify and automate the management of cloud native workloads and help solve and/or deal with the key challenges that IT and Software Engineering teams who ran their application workloads on kubernetes and in the cloud native way, will usually have to deal with - Complexity, Cost and Performance.
+
+[TODO: Additional paragraph describing your project (optional)]
+
+Getting Started
+Contributing
+Our project welcomes contributions from any member of our community. To get started contributing, please see our [Contributor Guide](TODO: Link to CONTRIBUTING.md).
+
+Scope
+In Scope
+[TODO: PROJECTNAME] is intended to [TODO: Core functionality]. As such, the project will implement or has implemented:
+
+[TODO: High-level Item 1]
+[TODO: High-level Item 2]
+[TODO: High-level Item 3]
+Out of Scope
+[TODO: PROJECTNAME] will be used in a cloud native environment with other tools. The following specific functionality will therefore not be incorporated:
+
+[TODO: Excluded function 1]
+[TODO: Excluded function 2]
+[TODO: PROJECTNAME] implements [TODO: List of major features, existing or planned], through [TODO: Implementation requirements/language/architecture/etc.]. It will not cover [TODO: short list of excluded items]
+
+Communications
+[TODO: Details (with links) to meetings, mailing lists, Slack, and any other communication channels]
+
+User Mailing List:
+Developer Mailing List:
+Slack Channel:
+Public Meeting Schedule and Links:
+Social Media:
+Other Channel(s), If Any:
+Resources
+[TODO: Add links to other helpful information (roadmap, docs, website, etc.)]
+
+License
+This project is licensed under [TODO: Add name of license and link to your LICENSE file]
+
+Conduct
+We follow the CNCF Code of Conduct [TODO: Insert link to your CODE_OF_CONDUCT.md file].
