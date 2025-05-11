@@ -1,4 +1,4 @@
-#  Welcome to Ochestra
+#  Welcome to Ochestra CloudOpera
 
 ## 1. What is this about
 
